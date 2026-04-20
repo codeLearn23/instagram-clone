@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01kgac",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0cv/s0mf6uvcrd/head",
+  "name": "instagram-clone",
+  "description": "scrimba solo project on css and accessibility principles",
   "scripts": {
     "start": "vite",
     "dev": "vite",

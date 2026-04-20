@@ -47,7 +47,7 @@ posts.forEach(post => {
     // we're calling it mainContainer
     // mainContainer is basically the card that the user will look at on the screen.
     const mainContainer = document.createElement("div");
-    mainContainer.id="main-container";
+    mainContainer.id = "main-container";
     const item = post;
     
     const avatar = document.createElement("section");

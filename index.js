@@ -8,7 +8,7 @@ const posts = [
         location: "Zundert, Netherlands",
         avatar: "images/avatar-vangogh.jpg",
         post: "images/post-vangogh.jpg",
-        comment: "just took a few mushrooms lol",
+        comment: "A reflective moment",
         likes: 21
     },
     {
@@ -17,7 +17,7 @@ const posts = [
         location: "Ornans, France",
         avatar: "images/avatar-courbet.jpg",
         post: "images/post-courbet.jpg",
-        comment: "i'm feelin a bit stressed tbh",
+        comment: "It's a little much",
         likes: 4
     },
         {
@@ -26,7 +26,7 @@ const posts = [
         location: "Paris, France",
         avatar: "images/avatar-ducreux.jpg",
         post: "images/post-ducreux.jpg",
-        comment: "gm friends! which coin are YOU stacking up today?? post below and WAGMI!",
+        comment: "My thoughts exactly",
         likes: 152
     }
 ]
